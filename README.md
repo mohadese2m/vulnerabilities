@@ -5,4 +5,5 @@ This repository is dedicated to implementing the unique vulnerability detection 
 Key resources available in this repository:
 
 -Task description and details: Refer to the task.pdf file for a comprehensive explanation of the task requirements, objectives, and constraints.
+
 -Dataset: The dataset for this task is provided in the vuln_data.sql file, which contains the structured data needed for analysis and model training.
