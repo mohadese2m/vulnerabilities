@@ -1,6 +1,6 @@
 **Unique Vulnerability Detection Task Repository**
 
-This repository is dedicated to implementing the unique vulnerability detection task, developed as part of an assessment for the AI Developer job position. It includes all relevant information and materials required to understand, reproduce, and evaluate the task.
+This repository is dedicated to implementing the unique vulnerability detection task, developed as part of an assessment for the Netban Sharif AI Developer job position. It includes all relevant information and materials required to understand, reproduce, and evaluate the task.
 
 Key resources available in this repository:
 
