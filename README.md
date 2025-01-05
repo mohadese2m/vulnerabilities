@@ -8,4 +8,4 @@ Key resources available in this repository:
 
 -Dataset: The dataset for this task is provided in the vuln_data.sql file, which contains the structured data needed for analysis and model training.
 
--Code: Implementation of the task.
+-Code: Implementation of the task is in the code.ipynb file.
